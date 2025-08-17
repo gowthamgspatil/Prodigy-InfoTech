@@ -1,5 +1,7 @@
 #  Prodigy InfoTech Internship Projects
-* **Dataset:** [Prodigy InfoTech](https://drive.google.com/file/d/1nDV3hURFMv6FkRAUoSbGDnVX4bhOKmoZ/view?usp=drivesdk)
+* **Offer Letter :** [Prodigy InfoTech](https://drive.google.com/file/d/1nDV3hURFMv6FkRAUoSbGDnVX4bhOKmoZ/view?usp=drivesdk)
+
+  
 **Domain:** Data Science & Machine Learning
 
 This repository contains my internship tasks completed as part of the **Prodigy InfoTech Data Science Internship**.
