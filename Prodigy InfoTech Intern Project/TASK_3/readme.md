@@ -101,5 +101,5 @@ This project is submitted as **Task 3: Implement a Decision Tree Classifier** un
 
 For queries, collaborations, or feedback, feel free to connect with me:
 
-* **LinkedIn:** [gowthamgshivamuthy](https://www.linkedin.com/in/gowthamgshivamuthy)
-* **Gmail:** [gowthamgshivamuthy@gmail.com](mailto:gowthamgshivamuthy@gmail.com)
+* **LinkedIn:** [gowthamgshivamurthy](https://www.linkedin.com/in/gowthamgshivamurthy)
+* **Gmail:** [gowthamgshivamurthy@gmail.com](mailto:gowthamgshivamurthy@gmail.com)
