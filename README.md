@@ -30,6 +30,7 @@ Prodigy InfoTech/
 
 ###  Task 1 – Exploratory Data Analysis (EDA)
 
+* **Dataset:** [world bank group Dataset](https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%201) (`world bank group.cvs`)
 * **Objective:** Perform exploratory data analysis on a dataset to identify trends, distributions, and correlations.
 * **Key Steps:**
 
@@ -42,6 +43,7 @@ Prodigy InfoTech/
 
 ###  Task 2 – Machine Learning Model
 
+* **Dataset:** [Titanic Dataset](https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%202) (`Titanic.cvs`)
 * **Objective:** Implement a machine learning algorithm (e.g., regression/classification) to solve a predictive problem.
 * **Key Steps:**
 
@@ -54,7 +56,7 @@ Prodigy InfoTech/
 
 ###  Task 3 – Decision Tree Classifier
 
-* **Dataset:** [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing) (`bank-additional.csv`)
+* **Dataset:** [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing) (`Bank Marketing .cvs`)
 * **Objective:** Predict whether a client subscribes to a term deposit.
 * **Key Steps:**
 
