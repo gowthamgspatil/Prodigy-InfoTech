@@ -1,5 +1,5 @@
 #  Prodigy InfoTech Internship Projects
-
+#  **Intern Offer Letter :** [Prodigy InfoTech]([https://drive.google.com/file/d/1nDV3hURFMv6FkRAUoSbGDnVX4bhOKmoZ/view?usp=drivesdk])
 **Domain:** Data Science & Machine Learning
 
 This repository contains my internship tasks completed as part of the **Prodigy InfoTech Data Science Internship**.
@@ -30,7 +30,7 @@ Prodigy InfoTech/
 
 ###  Task 1 – Exploratory Data Analysis (EDA)
 
-* **Dataset:** [world bank group Dataset](https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%201) (`world bank group.cvs`)
+* **Dataset:** [world bank group Dataset](https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%201)(`world bank group.cvs`)
 * **Objective:** Perform exploratory data analysis on a dataset to identify trends, distributions, and correlations.
 * **Key Steps:**
 
