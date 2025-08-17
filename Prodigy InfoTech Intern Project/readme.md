@@ -123,7 +123,7 @@ Each task demonstrates skills in **data analysis, machine learning, NLP, and vis
 
 For queries, collaborations, or feedback, feel free to connect with me:
 
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-* **Gmail:** [your.email@gmail.com](mailto:your.email@gmail.com)
+* **LinkedIn:** [gowthamgshivamurthy](https://www.linkedin.com/in/gowthamgshivamurthy)
+* **Gmail:** [gowthamgshivamurthy@gmail.com](mailto:gowthamgshivamurthy@gmail.com)
 
 ---
