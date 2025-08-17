@@ -131,8 +131,6 @@ Each task demonstrates skills in **data analysis, machine learning, NLP, and vis
 
 ##  Contact
 
-
-* **LinkedIn:** [gowthamgshivamurthy]([https://www.linkedin.com/in/gowthamgshivamuthy])
-* **Gmail:** [gowthamgshivamurthy@gmail.com](mailto:gowthamgshivamurthy@gmail.com)
-
+* **LinkedIn**: [gowthamgshivamurthy](https://www.linkedin.com/in/gowthamgshivamuthy)
+* **Gmail**: [gowthamgshivamurthy@gmail.com](mailto:gowthamgshivamurthy@gmail.com)
 ---
