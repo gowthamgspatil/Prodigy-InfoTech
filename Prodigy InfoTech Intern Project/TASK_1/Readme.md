@@ -1,11 +1,11 @@
-# 📊 Task 1 – World Population Data Visualization
+#  Task 1 – World Population Data Visualization
 
 This project is created as part of **Prodigy InfoTech Internship – Task 1**.
 The task involves analyzing and visualizing the **World Bank Population Dataset** to gain insights into population growth trends across the world.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv       # Population data (1960–2023)
@@ -78,7 +78,7 @@ jupyter notebook visualization.ipynb
 
 ---
 
-## 📬 Contact
+##  Contact
 
 * **LinkedIn**: [gowthamgshivamurthy](https://www.linkedin.com/in/gowthamgshivamuthy)
 * **Gmail**: [gowthamgshivamurthy@gmail.com](mailto:gowthamgshivamurthy@gmail.com)
