@@ -1,4 +1,4 @@
-# 🚢 Task 2 – Titanic Survival Prediction (EDA)
+#  Task 2 – Titanic Survival Prediction (EDA)
 
 This project is created as part of **Prodigy InfoTech Internship – Task 2**.
 The task involves performing **Exploratory Data Analysis (EDA)** on the Titanic dataset to identify patterns and insights that influenced survival during the Titanic disaster.
@@ -17,7 +17,7 @@ The task involves performing **Exploratory Data Analysis (EDA)** on the Titanic 
 
 ---
 
-## 📑 Dataset Description
+##  Dataset Description
 
 The dataset is provided by **Kaggle – Titanic: Machine Learning from Disaster**.
 
@@ -38,7 +38,7 @@ The dataset is provided by **Kaggle – Titanic: Machine Learning from Disaster*
 
 ---
 
-## 🔍 Steps Performed (EDA)
+##  Steps Performed (EDA)
 
 1. **Data Cleaning**
 
@@ -98,7 +98,7 @@ jupyter notebook "Exploratory Data Analysis.ipynb"
 
 ---
 
-## 📬 Contact
+##  Contact
 
 * **LinkedIn**: [gowthamgshivamurthy](https://www.linkedin.com/in/gowthamgshivamuthy)
 * **Gmail**: [gowthamgshivamurthy@gmail.com](mailto:gowthamgshivamurthy@gmail.com)
